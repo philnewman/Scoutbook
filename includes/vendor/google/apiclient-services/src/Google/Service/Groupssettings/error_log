@@ -1,0 +1,2 @@
+[17-May-2019 03:00:41 UTC] PHP Fatal error:  Class 'Google_Model' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/Groupssettings/Groups.php on line 19
+[10-Jul-2019 15:26:50 UTC] PHP Fatal error:  Class 'Google_Model' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/Groupssettings/Groups.php on line 19

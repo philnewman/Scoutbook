@@ -1,0 +1,3 @@
+[27-May-2019 05:54:17 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/IdentityToolkit/Resource/Relyingparty.php on line 27
+[24-Jul-2019 09:30:14 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/IdentityToolkit/Resource/Relyingparty.php on line 27
+[24-Jul-2019 09:41:43 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/IdentityToolkit/Resource/Relyingparty.php on line 27

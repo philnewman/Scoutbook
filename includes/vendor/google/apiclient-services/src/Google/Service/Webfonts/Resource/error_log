@@ -1,0 +1,2 @@
+[29-May-2019 04:58:40 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/Webfonts/Resource/Webfonts.php on line 27
+[23-Aug-2019 01:01:08 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/Webfonts/Resource/Webfonts.php on line 26

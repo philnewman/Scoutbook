@@ -1,0 +1,45 @@
+[14-May-2019 19:28:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This library must be installed via composer or by downloading the full package. See the instructions at https://github.com/google/google-api-php-client#installation.' in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php on line 14
+[14-May-2019 21:22:13 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This library must be installed via composer or by downloading the full package. See the instructions at https://github.com/google/google-api-php-client#installation.' in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php:14
+Stack trace:
+#0 /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/Collection.php(4): require_once()
+#1 {main}
+  thrown in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php on line 14
+[17-May-2019 02:26:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This library must be installed via composer or by downloading the full package. See the instructions at https://github.com/google/google-api-php-client#installation.' in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php:14
+Stack trace:
+#0 /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/Collection.php(4): require_once()
+#1 {main}
+  thrown in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php on line 14
+[17-May-2019 02:26:42 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This library must be installed via composer or by downloading the full package. See the instructions at https://github.com/google/google-api-php-client#installation.' in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php on line 14
+[17-May-2019 03:36:57 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This library must be installed via composer or by downloading the full package. See the instructions at https://github.com/google/google-api-php-client#installation.' in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php:14
+Stack trace:
+#0 /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/Collection.php(4): require_once()
+#1 {main}
+  thrown in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php on line 14
+[17-May-2019 03:37:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This library must be installed via composer or by downloading the full package. See the instructions at https://github.com/google/google-api-php-client#installation.' in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php on line 14
+[20-Jul-2019 05:43:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This library must be installed via composer or by downloading the full package. See the instructions at https://github.com/google/google-api-php-client#installation.' in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php on line 14
+[21-Jul-2019 03:57:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This library must be installed via composer or by downloading the full package. See the instructions at https://github.com/google/google-api-php-client#installation.' in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php:14
+Stack trace:
+#0 /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/Collection.php(4): require_once()
+#1 {main}
+  thrown in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php on line 14
+[30-Nov-2019 16:01:44 UTC] PHP Fatal error:  Uncaught Exception: This library must be installed via composer or by downloading the full package. See the instructions at https://github.com/google/google-api-php-client#installation. in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php on line 14
+[03-Dec-2019 10:44:06 UTC] PHP Fatal error:  Uncaught Exception: This library must be installed via composer or by downloading the full package. See the instructions at https://github.com/google/google-api-php-client#installation. in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php:14
+Stack trace:
+#0 /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/Collection.php(4): require_once()
+#1 {main}
+  thrown in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/autoload.php on line 14

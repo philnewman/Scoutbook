@@ -1,0 +1,8 @@
+[14-May-2019 06:32:12 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/tests/ServiceTest.php on line 22
+[17-May-2019 02:25:35 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/tests/ServiceTest.php on line 22
+[17-May-2019 03:11:10 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/tests/ServiceTest.php on line 22
+[21-Jun-2019 05:53:24 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/tests/ServiceTest.php on line 22
+[22-Jun-2019 15:44:32 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/tests/ServiceTest.php on line 22
+[22-Aug-2019 17:55:08 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/tests/ServiceTest.php on line 21
+[16-Nov-2019 00:43:41 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/tests/ServiceTest.php on line 21
+[04-Dec-2019 03:23:27 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/tests/ServiceTest.php on line 21

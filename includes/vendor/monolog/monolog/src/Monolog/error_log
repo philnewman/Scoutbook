@@ -1,0 +1,7 @@
+[12-May-2019 08:16:02 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/monolog/monolog/src/Monolog/Logger.php on line 28
+[17-May-2019 02:27:26 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/monolog/monolog/src/Monolog/Logger.php on line 28
+[17-May-2019 03:45:45 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/monolog/monolog/src/Monolog/Logger.php on line 28
+[14-Jul-2019 00:12:02 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/monolog/monolog/src/Monolog/Logger.php on line 28
+[16-Sep-2019 19:24:00 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/monolog/monolog/src/Monolog/Logger.php on line 28
+[22-Nov-2019 11:11:56 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/monolog/monolog/src/Monolog/Logger.php on line 28
+[03-Dec-2019 09:20:09 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/monolog/monolog/src/Monolog/Logger.php on line 28

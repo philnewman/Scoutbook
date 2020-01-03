@@ -1,0 +1,15 @@
+.scoutbook_ul{
+  width:        100%;
+  display:      table;
+  table-layout: fixed;
+  border-collapse: collapse;
+  margin-top:-10px;
+}
+
+.scoutbook_li{
+  display: table-cell;
+  text-align: left;
+  border: 1px solid red;
+  vertical-align: middle;
+  padding-left: 5px;
+}

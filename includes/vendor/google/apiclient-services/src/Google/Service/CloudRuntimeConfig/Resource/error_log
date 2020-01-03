@@ -1,0 +1,3 @@
+[17-May-2019 03:24:16 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/CloudRuntimeConfig/Resource/Operations.php on line 27
+[04-Jun-2019 07:00:40 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/CloudRuntimeConfig/Resource/Operations.php on line 27
+[29-Jul-2019 21:50:50 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/CloudRuntimeConfig/Resource/Operations.php on line 27

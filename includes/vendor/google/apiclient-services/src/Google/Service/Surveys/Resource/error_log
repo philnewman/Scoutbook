@@ -1,0 +1,4 @@
+[06-Jun-2019 14:24:30 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/Surveys/Resource/Surveys.php on line 27
+[06-Jun-2019 14:34:10 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/Surveys/Resource/Results.php on line 27
+[03-Aug-2019 20:32:38 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/Surveys/Resource/Surveys.php on line 27
+[22-Aug-2019 07:30:19 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/Surveys/Resource/Results.php on line 26

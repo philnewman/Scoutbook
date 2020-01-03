@@ -1,0 +1,9 @@
+[14-May-2019 06:51:09 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php on line 15
+[15-May-2019 12:12:14 UTC] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/Test/TestLogger.php on line 58
+[17-May-2019 02:31:23 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php on line 15
+[17-May-2019 02:31:23 UTC] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/Test/TestLogger.php on line 58
+[21-Aug-2019 09:43:39 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php on line 15
+[23-Aug-2019 04:39:18 UTC] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/Test/TestLogger.php on line 57
+[15-Oct-2019 14:56:32 UTC] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/Test/TestLogger.php on line 57
+[06-Dec-2019 20:03:32 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php on line 14
+[09-Dec-2019 13:28:47 UTC] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/Test/TestLogger.php on line 57

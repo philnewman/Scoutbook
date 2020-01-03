@@ -1,0 +1,12 @@
+[14-May-2019 19:57:01 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[14-May-2019 22:19:03 UTC] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[17-May-2019 02:27:49 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[17-May-2019 02:27:51 UTC] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[17-May-2019 03:49:32 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[17-May-2019 03:49:52 UTC] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[23-Jul-2019 20:29:13 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[26-Jul-2019 00:53:02 UTC] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[04-Dec-2019 17:17:02 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/AbstractLogger.php on line 12
+[06-Dec-2019 20:42:01 UTC] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/NullLogger.php on line 13
+[21-Dec-2019 15:15:02 UTC] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/NullLogger.php on line 13
+[21-Dec-2019 15:15:21 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/psr/log/Psr/Log/AbstractLogger.php on line 12

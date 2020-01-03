@@ -1,0 +1,2 @@
+[02-Jun-2019 18:15:50 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/ServiceBroker/Resource/V1.php on line 27
+[31-Jul-2019 20:12:34 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/ServiceBroker/Resource/V1.php on line 27

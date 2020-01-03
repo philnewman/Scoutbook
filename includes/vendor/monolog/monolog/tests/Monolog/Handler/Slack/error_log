@@ -1,0 +1,4 @@
+[15-May-2019 14:24:49 UTC] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/monolog/monolog/tests/Monolog/Handler/Slack/SlackRecordTest.php on line 21
+[17-May-2019 03:20:21 UTC] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/monolog/monolog/tests/Monolog/Handler/Slack/SlackRecordTest.php on line 21
+[20-Jul-2019 13:20:04 UTC] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/monolog/monolog/tests/Monolog/Handler/Slack/SlackRecordTest.php on line 21
+[11-Dec-2019 12:49:45 UTC] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/monolog/monolog/tests/Monolog/Handler/Slack/SlackRecordTest.php on line 20

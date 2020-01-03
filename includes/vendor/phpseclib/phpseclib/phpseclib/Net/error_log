@@ -1,0 +1,3 @@
+[17-May-2019 02:27:43 UTC] PHP Fatal error:  Class 'phpseclib\Net\SSH2' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/phpseclib/phpseclib/phpseclib/Net/SFTP.php on line 48
+[17-May-2019 03:48:37 UTC] PHP Fatal error:  Class 'phpseclib\Net\SSH2' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/phpseclib/phpseclib/phpseclib/Net/SFTP.php on line 48
+[10-Dec-2019 06:45:37 UTC] PHP Fatal error:  Class 'phpseclib\Net\SSH2' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/phpseclib/phpseclib/phpseclib/Net/SFTP.php on line 47

@@ -1,0 +1,2 @@
+[04-Jun-2019 07:47:48 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/Spectrum/Resource/Paws.php on line 27
+[30-Jul-2019 12:31:26 UTC] PHP Fatal error:  Class 'Google_Service_Resource' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient-services/src/Google/Service/Spectrum/Resource/Paws.php on line 27

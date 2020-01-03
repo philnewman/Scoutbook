@@ -1,0 +1,5 @@
+[15-May-2019 19:56:11 UTC] PHP Fatal error:  Trait 'Google\Auth\CacheTrait' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/auth/src/Middleware/ScopedAccessTokenMiddleware.php on line 38
+[17-May-2019 02:26:51 UTC] PHP Fatal error:  Trait 'Google\Auth\CacheTrait' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/auth/src/Middleware/ScopedAccessTokenMiddleware.php on line 38
+[17-May-2019 03:39:30 UTC] PHP Fatal error:  Trait 'Google\Auth\CacheTrait' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/auth/src/Middleware/ScopedAccessTokenMiddleware.php on line 38
+[19-Jun-2019 19:50:23 UTC] PHP Fatal error:  Trait 'Google\Auth\CacheTrait' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/auth/src/Middleware/ScopedAccessTokenMiddleware.php on line 38
+[05-Dec-2019 07:18:00 UTC] PHP Fatal error:  Trait 'Google\Auth\CacheTrait' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/auth/src/Middleware/ScopedAccessTokenMiddleware.php on line 38

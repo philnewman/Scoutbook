@@ -1,0 +1,5 @@
+[15-May-2019 16:46:50 UTC] PHP Fatal error:  Class 'Google_Exception' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/Service/Exception.php on line 19
+[17-May-2019 02:29:52 UTC] PHP Fatal error:  Class 'Google_Exception' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/Service/Exception.php on line 19
+[17-May-2019 04:11:38 UTC] PHP Fatal error:  Class 'Google_Exception' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/Service/Exception.php on line 19
+[23-Jul-2019 20:30:18 UTC] PHP Fatal error:  Class 'Google_Exception' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/Service/Exception.php on line 19
+[08-Dec-2019 04:17:50 UTC] PHP Fatal error:  Class 'Google_Exception' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/google/apiclient/src/Google/Service/Exception.php on line 18

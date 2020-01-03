@@ -1,0 +1,12 @@
+[12-May-2019 08:27:13 UTC] PHP Fatal error:  Interface 'GuzzleHttp\ClientInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/guzzlehttp/guzzle/src/Client.php on line 26
+[12-May-2019 09:05:03 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromisorInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/guzzlehttp/guzzle/src/Pool.php on line 20
+[17-May-2019 02:25:50 UTC] PHP Fatal error:  Interface 'GuzzleHttp\ClientInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/guzzlehttp/guzzle/src/Client.php on line 26
+[17-May-2019 02:25:52 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromisorInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/guzzlehttp/guzzle/src/Pool.php on line 20
+[17-May-2019 03:17:41 UTC] PHP Fatal error:  Interface 'GuzzleHttp\ClientInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/guzzlehttp/guzzle/src/Client.php on line 26
+[17-May-2019 03:18:10 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromisorInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/guzzlehttp/guzzle/src/Pool.php on line 20
+[20-May-2019 05:00:08 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromisorInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/guzzlehttp/guzzle/src/Pool.php on line 20
+[13-Jun-2019 15:11:12 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromisorInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/guzzlehttp/guzzle/src/Pool.php on line 20
+[22-Jul-2019 20:38:07 UTC] PHP Fatal error:  Interface 'GuzzleHttp\ClientInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/guzzlehttp/guzzle/src/Client.php on line 26
+[27-Sep-2019 12:30:31 UTC] PHP Fatal error:  Interface 'GuzzleHttp\ClientInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/guzzlehttp/guzzle/src/Client.php on line 25
+[01-Dec-2019 11:43:35 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromisorInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/guzzlehttp/guzzle/src/Pool.php on line 19
+[01-Dec-2019 22:38:28 UTC] PHP Fatal error:  Interface 'GuzzleHttp\ClientInterface' not found in /home/troop/public_html/wp-content/plugins/scoutbook/includes/vendor/guzzlehttp/guzzle/src/Client.php on line 25
